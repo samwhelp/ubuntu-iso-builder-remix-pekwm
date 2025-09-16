@@ -8,15 +8,16 @@
 
 
 ##
-## ## Package / Desktop Environment / Xfce
+## ## Package / Desktop Environment / Pekwm
 ##
 
-xfce4
-xfce4-goodies
+pekwm
+pekwm-themes
 
 
-xfce4-power-manager
-xfce4-power-manager-plugins
+picom
+tint2
+feh
 
 
 xfce4-terminal
@@ -33,10 +34,8 @@ pavucontrol
 pulseaudio
 
 
-xarchiver
 
 
-xfce4-panel-profiles
 
 
 
